@@ -1,0 +1,92 @@
+ .Temperature2{
+    height: 260px;
+    width: 700px;
+    background-color: black;
+    opacity:0.6;
+    margin-left: 30px;
+    margin-top: 100px;
+    border-radius: 10px;
+    /* position: relative; */
+}
+.temp2{
+    height: 260px;
+    width: 700px;
+    background-color: black;
+    opacity:0.6;
+    margin-left: 50px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.Temperature2h1{
+    color: white;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.Temperatureh3{
+    color: white;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+.climatetemp{
+    display: flex;
+}
+.Temperature2h4{
+    color: white;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+.Temp2h1{
+    color: white;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.Temp2h2{
+    color: white;
+    margin-left: 60px;
+    margin-top: 4px;
+}
+.Temp2p{
+    margin-top: -160px;
+    margin-left: 55px;
+    font-size: xx-large;
+}
+.Tempp{
+    margin-top: -50px;
+    margin-left: 550px;
+    font-size: x-large; 
+}
+.Tempp1{
+    margin-top: -10px;
+    margin-left: 550px;
+    font-size: x-large; 
+}
+.Temptimep{
+    margin-top: -50px;
+    margin-left: 600px;
+    font-size: large; 
+    color:white;
+}
+.Temptimep1{
+    margin-top: -50px;
+    margin-left: 600px;
+    font-size: large; 
+    color:white;
+}
+.Temppressurep1{
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: large; 
+    color:white;
+}
+.Tempcloudp{
+    margin-top: -40px;
+    margin-left: 180px;
+    font-size: large; 
+    color:white;
+}
+.Tempminp{
+    margin-top: -40px;
+    margin-left: 250px;
+    font-size: large; 
+    color:white;
+}

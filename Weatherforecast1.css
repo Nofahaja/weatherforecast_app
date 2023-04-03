@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://www.slidebackground.com/uploads/nature-background/very-best-nature-backgrounds-14.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inputtemp{
+    background: transparent;
+    height: 26px;
+    width: 461px;
+    padding-left: 25px;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 40px;
+    margin-left: 500px;
+    
+}
+.icontemp{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 960px;
+}

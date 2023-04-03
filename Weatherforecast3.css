@@ -1,0 +1,76 @@
+.temp4{
+   
+/* padding-top: 100px; */
+margin-top: -250px;
+margin-left: 200px;
+border-right:2px solid white;
+}
+
+.temp5{
+    margin-top: -250px;
+margin-left: 400px;
+border-right:2px solid white;
+
+}
+ .temp6{
+    margin-top: -250px;
+margin-left: 600px;
+ } 
+ .temp7{
+    margin-top: -250px;
+margin-left: 800px;
+ }
+ .temp8{
+    margin-top: -250px;
+margin-left: 1000px;
+ }
+ .temp9{
+    margin-top: -250px;
+margin-left: 1200px;
+ }
+
+.temp3h2{
+    color:#e62e00;
+    /* margin-top: 100px; */
+    /* margin-top: 500px; */
+    padding-left: 115px;
+    padding-top: 20px;
+}
+.Tempweather3{
+    height: 260px;
+    width: 1490px;
+    background-color: black;
+    opacity:0.6;
+    margin-left: 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    display: flex;
+    /* gap: 10px; */
+}
+.cc{
+    display: inline-flex;
+    font-size: xx-large;
+    margin-top: -10px;
+    margin-left: 110px;
+    
+    
+}
+.celsuistemp{
+    color: white;
+    font-size: medium;
+    margin-left: 80px;
+    font-weight: bolder;
+    margin-top: -10px;
+}
+.raintemp{
+    margin-left: 110px;
+    font-size: larger;
+    color: white;
+}
+.modtemp{
+    margin-left: 90px;
+    font-size: medium;
+    color: white;
+}
+
+
